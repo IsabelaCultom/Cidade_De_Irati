@@ -10,8 +10,20 @@ header{
     border-radius: 5px; 
     margin-top: 10px;
 }
-.logo img{
-    width: 8%; 
+.logo {
+    width: 8px; 
     padding-top: 30px;
-
+}
+.navegacao{
+    overflow: hidden;
+}
+.navegacao a{
+    float: right;
+    padding:10px;
+    color: rgb(#df3372);
+    text-decoration: none
+    
+}
+.navegacao a:hover{ 
+    color: black;
 }
